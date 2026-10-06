@@ -162,11 +162,11 @@ https://httpbin.org/delete
 
 ### GET
 
-![Hasil pengujian GET]([../../kegiatan-praktikum/screenshots/tm1-postman-get.png](https://github.com/010Resty/tugas-pemrograman-berbasis-platform-010_Resty/blob/main/pertemuan-02/tugas-mandiri/screenshoot/tm1-postman-get.png))
+![Hasil pengujian GET](https://github.com/010Resty/tugas-pemrograman-berbasis-platform-010_Resty/blob/main/pertemuan-02/tugas-mandiri/screenshoot/tm1-postman-get.png)
 
 ### POST
 
-![Hasil pengujian POST]([../../kegiatan-praktikum/screenshots/tm1-postman-post.png](https://github.com/010Resty/tugas-pemrograman-berbasis-platform-010_Resty/blob/main/pertemuan-02/tugas-mandiri/screenshoot/tm1-postman-post.png))
+![Hasil pengujian POST](https://github.com/010Resty/tugas-pemrograman-berbasis-platform-010_Resty/blob/main/pertemuan-02/tugas-mandiri/screenshoot/tm1-postman-post.png)
 
 ## Kesimpulan
 
