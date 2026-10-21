@@ -41,7 +41,7 @@ Jumlah aturan CSS tambahan yang perlu ditulis: 0 aturan, jika menggunakan kompon
   </div>
 </div>
 
-Jumlah class utility: 17 kemunculan class jika setiap nama class pada atribut class dihitung satu per satu, termasuk class yang dipisahkan spasi.
+Jumlah class utility: 19 kemunculan class jika setiap nama class pada atribut class dihitung satu per satu, termasuk class yang dipisahkan spasi.
 
 Kesimpulannya, versi utility Tailwind lebih mudah diubah warnanya secara langsung melalui class seperti bg-blue-600, sedangkan Bootstrap lebih praktis untuk tampilan standar tetapi biasanya membutuhkan penggantian class atau CSS tambahan untuk penyesuaian khusus.
 
